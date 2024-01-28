@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+h2 {
+  color: #333;
+}
+
+
+span.negrita {
+  font-weight: bold;
+}
+
+button.edit-button,
+button.delete-button {
+  margin: 10px;
+}
+
+button.edit-button {
+  background-color: #a1a2ff;
+}
+
+button.delete-button {
+  background-color: #ff5e5e;
+}
+
+.juego-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+}
+#formulario-nuevo-juego {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #45a049;
+}
+#mensaje {
+  margin-top: 20px;
+  color: #333;
+}
+form#formulario-modificar-juego {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+  display: block;
+}
+
+.no-mostrar {
+  display: none;
+}
+
+#mensaje {
+  margin-top: 20px;
+  padding: 10px;
+  display: none;
+}
+#mensaje.success {
+  background-color: #4caf50;
+  color: #fff;
+}
+#mensaje.error {
+  background-color: #f44336;
+  color: #fff;
+}

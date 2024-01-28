@@ -1,0 +1,248 @@
+[
+  
+  {
+    "id": 1,
+    "nombre": "Super Mario Bros.",
+    "fecha_lanzamiento": "1985-09-13",
+    "consola": "NES",
+    "nota": 9.5
+  },
+  {
+    "id": 2,
+    "nombre": "The Legend of Zelda: Ocarina of Time",
+    "fecha_lanzamiento": "1998-11-21",
+    "consola": "Nintendo 64",
+    "nota": 10
+  },
+  {
+    "id": 3,
+    "nombre": "Grand Theft Auto V",
+    "fecha_lanzamiento": "2013-09-17",
+    "consola": "PlayStation 3, Xbox 360",
+    "nota": 8.8
+  },
+  {
+    "id": 4,
+    "nombre": "Minecraft",
+    "fecha_lanzamiento": "2011-11-18",
+    "consola": "Varias plataformas",
+    "nota": 9.3
+  },
+  {
+    "id": 5,
+    "nombre": "The Elder Scrolls V: Skyrim",
+    "fecha_lanzamiento": "2011-11-11",
+    "consola": "Varias plataformas",
+    "nota": 9.7
+  },
+  {
+    "id": 6,
+    "nombre": "Red Dead Redemption 2",
+    "fecha_lanzamiento": "2018-10-26",
+    "consola": "PlayStation 4, Xbox One",
+    "nota": 9.8
+  },
+  {
+    "id": 7,
+    "nombre": "Fortnite",
+    "fecha_lanzamiento": "2017-07-25",
+    "consola": "Varias plataformas",
+    "nota": 8.5
+  },
+  {
+    "id": 8,
+    "nombre": "Pac-Man",
+    "fecha_lanzamiento": "1980-05-22",
+    "consola": "Varias plataformas",
+    "nota": 9.0
+  },
+  {
+    "id": 9,
+    "nombre": "FIFA 22",
+    "fecha_lanzamiento": "2021-10-01",
+    "consola": "Varias plataformas",
+    "nota": 8.7
+  },
+  {
+    "id": 10,
+    "nombre": "Assassin's Creed Valhalla",
+    "fecha_lanzamiento": "2020-11-10",
+    "consola": "Varias plataformas",
+    "nota": 8.9
+  },
+  {
+    "id": 11,
+    "nombre": "Super Smash Bros. Ultimate",
+    "fecha_lanzamiento": "2018-12-07",
+    "consola": "Nintendo Switch",
+    "nota": 9.6
+  },
+  {
+    "id": 12,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "fecha_lanzamiento": "2015-05-19",
+    "consola": "Varias plataformas",
+    "nota": 9.9
+  },
+  {
+    "id": 13,
+    "nombre": "Call of Duty: Warzone",
+    "fecha_lanzamiento": "2020-03-10",
+    "consola": "Varias plataformas",
+    "nota": 8.6
+  },
+  {
+    "id": 14,
+    "nombre": "League of Legends",
+    "fecha_lanzamiento": "2009-10-27",
+    "consola": "PC",
+    "nota": 9.4
+  },
+  {
+    "id": 15,
+    "nombre": "God of War (2018)",
+    "fecha_lanzamiento": "2018-04-20",
+    "consola": "PlayStation 4",
+    "nota": 9.7
+  },
+  {
+    "id": 16,
+    "nombre": "Pokemon Red and Blue",
+    "fecha_lanzamiento": "1996-02-27",
+    "consola": "Game Boy",
+    "nota": 8.8
+  },
+  {
+    "id": 17,
+    "nombre": "Overwatch",
+    "fecha_lanzamiento": "2016-05-24",
+    "consola": "Varias plataformas",
+    "nota": 9.2
+  },
+  {
+    "id": 18,
+    "nombre": "Animal Crossing: New Horizons",
+    "fecha_lanzamiento": "2020-03-20",
+    "consola": "Nintendo Switch",
+    "nota": 9.6
+  },
+  {
+    "id": 19,
+    "nombre": "Counter-Strike: Global Offensive",
+    "fecha_lanzamiento": "2012-08-21",
+    "consola": "PC",
+    "nota": 8.9
+  },
+  {
+    "id": 20,
+    "nombre": "Cyberpunk 2077",
+    "fecha_lanzamiento": "2020-12-10",
+    "consola": "Varias plataformas",
+    "nota": 8.7
+  },
+  {
+    "id": 21,
+    "nombre": "Final Fantasy VII",
+    "fecha_lanzamiento": "1997-01-31",
+    "consola": "PlayStation",
+    "nota": 9.8
+  },
+  {
+    "id": 22,
+    "nombre": "Halo: Combat Evolved",
+    "fecha_lanzamiento": "2001-11-15",
+    "consola": "Xbox",
+    "nota": 9.0
+  },
+  {
+    "id": 23,
+    "nombre": "Destiny 2",
+    "fecha_lanzamiento": "2017-09-06",
+    "consola": "Varias plataformas",
+    "nota": 8.5
+  },
+  {
+    "id": 24,
+    "nombre": "The Sims 4",
+    "fecha_lanzamiento": "2014-09-02",
+    "consola": "PC",
+    "nota": 9.1
+  },
+  {
+    "id": 25,
+    "nombre": "Splatoon 2",
+    "fecha_lanzamiento": "2017-07-21",
+    "consola": "Nintendo Switch",
+    "nota": 9.2
+  },
+  {
+    "id": 26,
+    "nombre": "Uncharted 4: A Thief's End",
+    "fecha_lanzamiento": "2016-05-10",
+    "consola": "PlayStation 4",
+    "nota": 9.7
+  },
+  {
+    "id": 27,
+    "nombre": "The Legend of Zelda: Breath of the Wild",
+    "fecha_lanzamiento": "2017-03-03",
+    "consola": "Nintendo Switch",
+    "nota": 10
+  },
+  {
+    "id": 28,
+    "nombre": "Genshin Impact",
+    "fecha_lanzamiento": "2020-09-28",
+    "consola": "Varias plataformas",
+    "nota": 9.0
+  },
+  {
+    "id": 29,
+    "nombre": "Dark Souls III",
+    "fecha_lanzamiento": "2016-04-12",
+    "consola": "Varias plataformas",
+    "nota": 9.5
+  },
+  {
+    "id": 30,
+    "nombre": "The Last of Us Part II",
+    "fecha_lanzamiento": "2020-06-19",
+    "consola": "PlayStation 4",
+    "nota": 9.8
+  },
+  {
+    "id": 31,
+    "nombre": "Among Us",
+    "fecha_lanzamiento": "2018-06-15",
+    "consola": "Varias plataformas",
+    "nota": 8.5
+  },
+  {
+    "id": 32,
+    "nombre": "Cyberpunk 2078",
+    "fecha_lanzamiento": "2021-12-12",
+    "consola": "Varias plataformas",
+    "nota": 8.6
+  },
+  {
+    "id": 33,
+    "nombre": "Rocket League",
+    "fecha_lanzamiento": "2015-07-07",
+    "consola": "Varias plataformas",
+    "nota": 9.1
+  },
+  {
+    "id": 34,
+    "nombre": "Doom Eternal",
+    "fecha_lanzamiento": "2020-03-20",
+    "consola": "Varias plataformas",
+    "nota": 9.3
+  },
+  {
+    "id": 35,
+    "nombre": "Hades",
+    "fecha_lanzamiento": "2020-09-17",
+    "consola": "PC, Nintendo Switch",
+    "nota": 9.7
+  }
+]
